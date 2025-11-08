@@ -1,0 +1,15 @@
+# Ignore nested git repo
+UTS-PBO/inventaris-barang-console/
+
+# Ignore typical system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE / editor settings
+.vscode/
+.idea/
+
+# Ignore build / vendor / cache folders (opsional)
+node_modules/
+vendor/
+.env
